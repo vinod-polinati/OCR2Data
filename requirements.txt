@@ -1,5 +1,8 @@
 pytesseract
-pillow
+Pillow
 pandas
 python-dotenv
 groq
+logging
+pathlib
+streamlit
