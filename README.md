@@ -1,6 +1,9 @@
 # OCR2Data
+### The website is live at ```www.bills.streamlit.app```
 
-This project provides a pipeline to process receipt images, extract text using OCR, and analyze the extracted data using the Groq API. The pipeline includes the following steps:
+
+This project provides a pipeline to process receipt images, extract text using OCR, and analyze the extracted data using the Groq API. The pipeline includes the following steps: 
+
 1. Extract text from the receipt image using OCR.
 2. Save the extracted text to a CSV file.
 3. Process the CSV data using the Groq API to generate structured JSON data.
